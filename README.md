@@ -1,2 +1,7 @@
-# EDA-Spotify-Top-50-2021
-Memberikan analisa dan Goals yang dituju dengan menggunakan data EDA Spotify TOP 50 2021 yang didapatkan dari keagle
+# EDA Spotify Top 50 2021
+
+## Indonesia
+
+Data ini Didapatkan dari dataset kaggle. Tujuan dari pengolahan data ini adalah memberikan analisa untuk menentukan urutan TOP 50 Spotify pada tahun selanjutnya dan Memberikan gambaran kepada artist yang bekerja di dunia musik dengan tujuan untuk mencapai banyaknya pendengar dengan tujuan dapat menjadikan lagu tersebut dapat masuk ke dalam chart yang ada dalam aplikasi Spotify di tahun berikutnya
+
+## English
